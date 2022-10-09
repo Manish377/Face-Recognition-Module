@@ -16,4 +16,6 @@ and last run the face_recognition.py file for face recognition.
 Note :-
 This is not an face recognition  attendance system its simple face recognition module.
 
+Create folder named Dataset inside Face recognition.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
